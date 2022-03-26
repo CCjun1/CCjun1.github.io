@@ -1,0 +1,17 @@
+body { 
+    color : #352525; 
+    background : #e6e08f; 
+    font-family : "Times New Roman", Times, serif;
+    font-size : 12pt; 
+  }
+  
+  a { 
+    text-decoration : underline; 
+    color : #2525be; 
+  }
+  
+
+  nav, sidebar, footer, header, aside { 
+    display : none; 
+  }
+  
